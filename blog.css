@@ -1,0 +1,36 @@
+  *{
+
+margin:0;
+padding:0%;
+
+  }
+
+.header {
+    color: rgb(14, 14, 14);
+    display: flex;
+}
+
+#headerid{
+background-color: rgb(99, 87, 61);
+display:flex;
+height: 40px;
+justify-content: space-between;
+align-items: center;
+}
+
+a{
+    text-decoration: none;
+}
+
+nav{
+    display: flex;
+}
+
+li{
+list-style-type: none;
+margin:  0 16px;
+}
+
+a{
+    color: #e4d9d9;
+}
